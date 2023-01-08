@@ -1,0 +1,11 @@
+{
+	"scripts": {
+		"start": "vue-cli-service serve --open"
+	},
+	"dependencies": {
+		"mdb-vue-ui-kit": "^3.1.0"
+	},
+	"devDependencies": {
+		"vue-cli-plugin-mdb5": "~1.2.0"
+	}
+}
